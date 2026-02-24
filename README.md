@@ -22,7 +22,7 @@ Chinook database simulates a digital music store with tables for customers, invo
 -/data: dataset files
 
 ## Status
-In progress
+-In progress
 =======
 # chinook-sql-analysis
 Business analysis case study using Chinook (online music store) dataset
