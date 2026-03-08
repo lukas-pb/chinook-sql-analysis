@@ -1,12 +1,7 @@
-# Chinook SQL Analysis
-This project explores a a digital music store database (Chinook) using SQL to answer some common business questions.
+# 📌 Project Overview
+This project explores a digital music store database (Chinook) using SQL to answer some common business questions.
 
-## Objectives 
-- Practice SQL for real-world analytics
-- Answer business questions using relational data
-- Build a portfolio project
-
-## Dataset
+## 📊 Dataset
 Chinook database simulates a digital music store with tables for customers, invoices, tracks, and employees.
 
 ## Questions 
@@ -20,7 +15,7 @@ Chinook database simulates a digital music store with tables for customers, invo
 - /notebooks: Python analysis and visualisations
 - /data: Dataset files
 
-## Status
+## 🛠️ Status
 - Completed
 
 
